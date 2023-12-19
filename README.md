@@ -1,5 +1,4 @@
-# README: Solução Dynamics 365 Model Driven
-Descrição
+# Solução Dynamics 365 Model Driven
 Este repositório contém uma solução Model Driven para o Microsoft Dynamics 365, focada em uma aplicação de gerenciamento educacional. A solução inclui um aplicativo personalizado, automação de fluxos e recursos integrados.
 
 ## Estrutura do Repositório
